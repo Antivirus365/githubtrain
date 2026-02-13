@@ -9,6 +9,11 @@ public class file {
         int mul = a*b;
         System.out.println(mul);
 
+
+    }
+    static int sum(int a){
+        int sum = a +10;
+        return sum;
     }
 
     
